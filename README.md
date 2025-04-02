@@ -2,5 +2,5 @@
 
 ```
 $ pip install -r requirements.txt
-$ acelerate launch gpro_demp.py
+$ acelerate launch gpro_demo.py
 ```
